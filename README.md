@@ -1,2 +1,2 @@
-Replace in code everything that there is inside <>
+Replace in the code everything that there is inside <>
 with your own data.
